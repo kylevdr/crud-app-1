@@ -1,0 +1,25 @@
+{
+  "name": "crud-app-1",
+  "version": "1.0.0",
+  "description": "Crud app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylevdr/crud-app-1.git"
+  },
+  "author": "Kyle VanDeRiet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kylevdr/crud-app-1/issues"
+  },
+  "homepage": "https://github.com/kylevdr/crud-app-1#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cors": "^2.8.1",
+    "express": "^4.14.0",
+    "massive": "^2.5.0"
+  }
+}
